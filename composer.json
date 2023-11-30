@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "razorpay/razorpay": "2.*"
+    }
+}
